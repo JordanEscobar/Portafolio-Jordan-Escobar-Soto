@@ -1,0 +1,34 @@
+.nav{
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0%;
+
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+    
+}
+.nav a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.derecha{
+    display: flex;
+    gap: 15px;
+    padding-right: 1em;
+}
+
+mat-icon{
+    padding-left: 2%;
+}
+
+
+
